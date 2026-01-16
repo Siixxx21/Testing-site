@@ -18,5 +18,3 @@ Next steps you might want:
 - Integrate Stripe Checkout (I can provide client + server code).
 - Add a simple admin via CSV upload or connect a headless CMS (Sanity, Contentful).
 - Deploy to Vercel / Netlify.
-
-Tell me which next step you'd like and I’ll implement it (e.g., Stripe integration, dynamic product pages, or a simple admin).
