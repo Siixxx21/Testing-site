@@ -1,0 +1,23 @@
+[
+  {
+    "id": "p1",
+    "name": "Classic White Tee",
+    "description": "Soft cotton t-shirt. Comfortable and timeless.",
+    "price": 19.99,
+    "image": "https://images.unsplash.com/photo-1520975917210-1f9b9f8b3d2f?w=1200&q=60&auto=format&fit=crop"
+  },
+  {
+    "id": "p2",
+    "name": "Navy Hoodie",
+    "description": "Warm hoodie with brushed interior.",
+    "price": 49.99,
+    "image": "https://images.unsplash.com/photo-1512436991641-6745cdb1723f?w=1200&q=60&auto=format&fit=crop"
+  },
+  {
+    "id": "p3",
+    "name": "Slim Jeans",
+    "description": "Stretch denim for a clean fit.",
+    "price": 69.99,
+    "image": "https://images.unsplash.com/photo-1514996937319-344454492b37?w=1200&q=60&auto=format&fit=crop"
+  }
+]
